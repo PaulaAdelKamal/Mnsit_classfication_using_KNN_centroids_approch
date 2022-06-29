@@ -1,0 +1,2 @@
+# Mnsit_classfication_using_KNN_centroids_approch
+Mnsit data set classification after using centroids
